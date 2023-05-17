@@ -42,12 +42,12 @@ dcom 선배들의 학습법, 진로 이야기를 담은 컨텐츠입니다.
 | ------- | ----------------------------------------------------------------------- | ---------------------------------- | ---- |
 | Dcom    | Dcom에 들어온 당신! 이미 커리어의 절반은 완성했습니다 :)                | 링크                               | TBA  |
 | 디프만  | 앱 또는 웹서비스 기획부터 론칭까지 경험할 수 있음 (디자이너와의 협업도) | [링크](https://www.depromeet.com/) | TBA  |
-| AUSG    | 대학생 개발자를 위한 클라우드 커뮤니티                                  | [링크](https://ausg.me/)           | TBA  |
-| Mash-up | Product Design, Spring, Web, Android 등 IT 개발 동아리                  | [링크](https://mash-up.kr/)        | TBA  |
+| AUSG    | 대학생 개발자를 위한 클라우드 커뮤니티                                  | [링크](https://ausg.me/)           | 6월  |
+| Mash-up | Product Design, Spring, Web, Android 등 IT 개발 동아리                  | [링크](https://mash-up.kr/)        | 11월  |
 | SOPT    | 국내 최대 규모의 대학생 연합 IT벤처창업 동아리                          | [링크](https://sopt.org/)          | TBA  |
 | NEXTERS | 개발자와 디자이너를 위한 IT 커뮤니티                                    | [링크](http://teamnexters.com/)    | TBA  |
 | YAPP    | 대학생 연합 기업형 IT 동아리                                            | [링크](https://www.yapp.co.kr/)    | TBA  |
-
+| BOAZ| 국내 최초 빅데이터 동아리 | [링크](https://www.bigdataboaz.com/) | 6월, 12월
 
 #### 프로그램
 | 이름                            | 설명                                          |                         링  크                          | 모집                                                      |
@@ -63,6 +63,7 @@ dcom 선배들의 학습법, 진로 이야기를 담은 컨텐츠입니다.
 | 삼성 SDS 대학생 알고리즘 특강   | 대학생 알고리즘 특강                          |                          링크                           | 여름방학, 겨울방학 모집                                   |
 | 프로그래머스 Dev-Matching       | 프론트엔드 or 백엔드 or AI 개발자 채용 챌린지 |  [링크](https://career.programmers.co.kr/competitions)  | TBA                                                       |
 | 모두의 연구소                   | AI, Robotics 등 학습 및 연구 성장             |             [링크](https://modulabs.co.kr/)             |
+| 구글 머신러닝 부트캠프| AI 개발자 양성 및 매칭 | [링크](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp_84589b) | 6월  모집?
 
 이외 [BOOTTENT](https://boottent.sayun.studio/) 사이트에서 부트캠프 프로그램들을 보기 쉽게 정리하였으니 참고해보세요 :)
 
@@ -77,6 +78,32 @@ dcom 선배들의 학습법, 진로 이야기를 담은 컨텐츠입니다.
 | KHU SW 페스티벌          | 교내 소프트웨어 공모전                           | [링크](https://swf.khu.ac.kr/)            | 12월      |
 | Clova AI RUSH            | AI 프로젝트 챌린지                               | [링크](https://swf.khu.ac.kr/)            | 5월 ~ 9월 |
 | SCPC                     | 삼성 대학생 프로그래밍 경시대회                  | [링크](https://research.samsung.com/scpc) | 6월 ~ 9월 |
+
+
+#### 컨퍼런스
+|이름|설명|링크|일정|
+|---|----|---|---|
+|AWS Summit Seoul| AWS 개발자 컨퍼런스|[링크](https://aws.amazon.com/ko/events/summits/seoul/)|5월|
+|Nexon Developers Conference| 넥슨 개발자 컨퍼런스 | [링크](https://ndc.nexon.com/main?mobileFlag=mobile)|6월|
+|IF KAKAO|카카오 개발자 컨퍼런스|[링크](https://if.kakao.com/)|12월|
+|DEVIEW|네이버 개발자 컨퍼런스|[링크](https://deview.kr/2023)|2월|
+|Naver Cloud  Summit|네이버 클라우드 컨퍼런스|[링크](https://www.ncloud-online.com/navercloudsummit2022/)|12월|
+|Tech Verse|Line 개발자 컨퍼런스|[링크](https://tech-verse.me/ko)|11월|
+|우아콘|우아한형제들  개발자 컨퍼런스|[링크](https://woowacon.com/)|10월|
+|Slash|토스 개발자 컨퍼런스|[링크](https://toss.im/slash-22)|6월|
+|HMG| 현대차 개발자 컨퍼런스|[링크](https://www.hmgdevcon.com/2022/)|11월|
+|SSDC|삼성 소프트웨어 개발자 컨퍼런스|[링크](https://www.ssdc.kr/)|11월|
+|Unite|유니티 개발자  컨퍼런스|[링크](https://unity.com/kr/events/unite)|11월|
+|Pycon KR|파이썬 개발자 컨퍼런스|[링크](https://2023.pycon.kr/)|8월|
+|INFCON| 인프런 주최 컨퍼런스|[링크](https://www.inflearn.com/infcon-2023/teaser)|8월|
+|Let's Swift|스위프트 개발자 컨퍼런스|[링크](https://letswift.kr/2022/)|11월|
+|데이터야 놀자|데이터 관련 컨퍼런스|[링크](https://datayanolja.kr/)|10월|
+|Spring  Camp|스프링 개발자 컨퍼런스|[링크](https://springcamp.ksug.org/2023/)|4월|
+|Droid Knights|안드로이드 개발자 컨퍼런스|[링크](https://sites.google.com/view/dk21/)|9월|
+|GDC|게임개발자 컨퍼런스| [링크](https://gdconf.com/)|3월|
+|JSConf|자바스크립트 개발자 컨퍼런스|[링크](https://2022.jsconf.kr/ko)|9월|
+|feConf|프론트엔드 개발자 컨퍼런스|[링크](https://2022.feconf.kr/)|10월|
+|OpenInfra & Cloud Native Days|인프라, 클라우드 개발자 컨퍼런스|[링크](https://2022.openinfradays.kr/)|11월|
 
 
 
